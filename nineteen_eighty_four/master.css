@@ -1,0 +1,55 @@
+.art {
+  position: relative;
+  bottom: 1em;
+}
+header {
+  text-align: center;
+  padding-top: .1em;
+  margin-top: 1em;
+  padding-bottom: .1em;
+  background-color: #003638;
+  color: #BBFFFF;
+}
+.mono {
+  padding: 10px;
+  margin: 10px;
+  background-color: #BBFFFF;
+  box-shadow: 5px 5px 5px #86C9C9;
+  font-family: "DejaVu Sans Mono", monospace;
+  white-space: pre;
+  font-size: 1em;
+}
+.demos {
+  background-color: #1D6465;
+  color: #FFFFFF;
+  padding: .1em;
+}
+strong {
+  background-color: #BBFFFF;
+  padding-right: 1em;
+  padding-left: 1em;
+}
+section {
+  display: block;
+}
+h2 {
+  color: #00372B;
+}
+.mono2 {
+  font-family: "DejaVu Sans Mono", monospace;
+  color: #1D6465;
+}
+p, li {
+  font-size: 1em;
+  font-family: "DejaVu Sans", sans-serif;
+  margin-left: 1em;
+}
+footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #599586;
+  color: white;
+  text-align: center;
+}
